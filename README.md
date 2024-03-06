@@ -4,10 +4,6 @@ dhkfdfhdjf
 
 image of my GUI: 
 
-Feature Descriptions 
-- [ ] item 1
-
-Text Description for website 
 
 ___
 document map
@@ -19,10 +15,10 @@ ___
 
 ___
 feature discription 
-- [ ]space 
+- []space 
 ___
 
 ___
 Text discripton for websites
--[ ] space
+- [] space
 ___
